@@ -1,0 +1,36 @@
+body {
+    background: url(../images/pexels-jeremy-bishop-2422915.jpg) no-repeat fixed;
+    background-size: 100%;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    background-color: darkblue;
+    width: 100%;
+    right: 0px;
+}
+
+.navbar-text{
+    color: lightblue;
+    font-size: 200%;
+}
+
+.container {
+    padding: 100px;
+}
+
+.callout {
+    height: 100vh;
+    text-align: center;
+}
+
+#callout-text {
+    font-size: 500%;
+    color: white;
+}
+
+.dark-blue-background {
+    background-color: rgba(60, 60, 245, 0.7);
+    width: 100%;
+}
